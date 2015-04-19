@@ -1,3 +1,5 @@
 testi_advize_front_homepage:
-    path:     /hello/{name}
+    path:     /index
     defaults: { _controller: testiAdvizeFrontBundle:Default:index }
+
+
