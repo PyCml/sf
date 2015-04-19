@@ -1,0 +1,7 @@
+parameters:
+#    testi_advize_front.example.class: testiAdvize\FrontBundle\Example
+
+services:
+#    testi_advize_front.example:
+#        class: %testi_advize_front.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

@@ -1,0 +1,4 @@
+testi_advize_front:
+    resource: "@testiAdvizeFrontBundle/Resources/config/routing.yml"
+    prefix:   /
+
