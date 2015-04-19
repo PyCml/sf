@@ -8,6 +8,7 @@
   <component name="PhpUnit">
     <phpunit_settings>
       <PhpUnitSettings load_method="CUSTOM_LOADER" bootstrap_file_path="$PROJECT_DIR$/app/bootstrap.php.cache" configuration_file_path="$PROJECT_DIR$/app/phpunit.xml.dist" custom_loader_path="$PROJECT_DIR$/app/autoload.php" phpunit_phar_path="" use_bootstrap_file="true" use_configuration_file="true" />
+      <phpunit_by_deployment server_id="c3709e48-90e2-4e17-bfc4-08c1643b9e26" load_method="CUSTOM_LOADER" bootstrap_file_path="C:\wamp\bin\php\php5.5.12\app\bootstrap.php.cache" configuration_file_path="C:\wamp\bin\php\php5.5.12\app\phpunit.xml.dist" custom_loader_path="C:\wamp\bin\php\php5.5.12\app\autoload.php" use_bootstrap_file="true" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </project>

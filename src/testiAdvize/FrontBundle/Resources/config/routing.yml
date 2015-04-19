@@ -1,5 +1,9 @@
 testi_advize_front_homepage:
-    path:     /index
-    defaults: { _controller: testiAdvizeFrontBundle:Default:index }
+    path:     /api/posts
+    defaults: { _controller: testiAdvizeFrontBundle:Api:posts }
+
+test_api_post_id:
+    path:     /api/posts/{id}
+    defaults: { _controller: testiAdvizeFrontBundle:Api:postsid }
 
 
