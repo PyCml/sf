@@ -5,7 +5,9 @@
  * Date: 19/04/2015
  * Time: 14:50
  */
-namespace testiAdvize\FrontBundle\Class;
+namespace testiAdvize\FrontBundle\Controller;
+use Symfony\Bundle\FrameworkBundle\Controller\Controller;
+use Sunra\PhpSimple\HtmlDomParser;
 
 class Methods
 {
